@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
 
 
-        // added new commit
+        // rewrote this commit on the web
     }
 }
